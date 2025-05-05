@@ -23,5 +23,5 @@ basic.forever(function () {
     led.unplot(x - 2, y)
 })
 basic.forever(function () {
-	
+    music.playMelody("F A F G F A F G ", 120)
 })
